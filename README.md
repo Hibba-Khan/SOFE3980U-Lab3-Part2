@@ -10,7 +10,3 @@ A CI/CD pipeline was configured using Jenkinsfile_v2 to build, containerize, and
 
 ## Repository
 https://github.com/Hibba-Khan/SOFE3980U-Lab3-Part2
-
-## Videos
-CI Video: (paste link)
-Design Video: (paste link)
